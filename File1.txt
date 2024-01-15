@@ -6,5 +6,5 @@ commit test
 Add Line
 4line
 new branch line
-new line for gui2
+new line for gui
 
